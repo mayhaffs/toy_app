@@ -10,6 +10,8 @@ class UsersController < ApplicationController
   # GET /users/1
   # GET /users/1.json
   def show
+    # first_user = User.first
+    # micropost = first_user.microposts.first
   end
 
   # GET /users/new
